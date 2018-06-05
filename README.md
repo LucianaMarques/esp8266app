@@ -1,5 +1,7 @@
 # esp8266app
-Mobile aplication developed with Android Studio. Application receives csv files from Node MCU esp8266 board.
+Mobile aplication developed with Android Studio. The result of this work should be an android application that receives csv files from Node MCU esp8266 board.
+
+- May 2018
 
 AndroidStudio setup:
 
@@ -17,3 +19,14 @@ Reference:
 https://www.youtube.com/watch?v=vjWDDY0tZuA
 
 https://www.youtube.com/watch?v=cG9TR3VBhxg
+
+June 2018
+
+- June 5th
+Lattest reference found:
+
+https://www.youtube.com/watch?v=36ZlmLwqkS4&list=PLssIKrX2yyQFR3HDZwi2LZu6fR6VhhCrl&index=2
+
+This is a video series which teaches to make a WebServer using Node MCU and latter create an adroid application to control it.
+
+Study the "ESP8266WiFi.h" library to understand better the tools avaiable.
