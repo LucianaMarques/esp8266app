@@ -30,3 +30,11 @@ https://www.youtube.com/watch?v=36ZlmLwqkS4&list=PLssIKrX2yyQFR3HDZwi2LZu6fR6Vhh
 This is a video series which teaches to make a WebServer using Node MCU and latter create an adroid application to control it.
 
 Study the "ESP8266WiFi.h" library to understand better the tools avaiable.
+
+- June 19th
+
+Started the Android Studio part of the tutorial. 
+
+Studied differences between Java and Koitlin: 
+https://www.androidauthority.com/kotlin-vs-java-783187/
+https://www.androidauthority.com/kotlin-language-android-development-773040/
