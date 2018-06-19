@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btnLed1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LED1 - DESLIGADO"/>
+
+    <Button
+        android:id="@+id/btnLed2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LED2 - DESLIGADO"/>
+
+    <Button
+        android:id="@+id/btnLed3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="LED3 - DESLIGADO"/>
+
+    <Button
+        android:id="@+id/btnTodos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TODOS - DESLIGADO"/>
+
+    <TextView
+        android:id="@+id/txtLdr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="35pt"
+        android:textColor="#FF0000"
+        android:text="0"/>
+
+    <EditText
+        android:id="@+id/txtResultado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:enabled="false"/>
+
+
+
+</LinearLayout>
