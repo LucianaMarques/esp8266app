@@ -42,3 +42,9 @@ https://www.androidauthority.com/kotlin-language-android-development-773040/
 Notes on Gradle
 
 The tutorial says to fo to http://square.github.io/okhttp/ and copy compile 'com.squareup.okhttp3:okhttp:3.10.0' from the download area. IDE says that "compile" is now obsolete and has been replaced by "implementation", so just replace compile by implementation.
+
+July 2018
+
+- July 10th
+
+Android Developer's toolbox: https://www.optasy.com/blog/15-android-app-development-tools-essential-every-developers-toolbox
