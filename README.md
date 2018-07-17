@@ -48,3 +48,8 @@ July 2018
 - July 10th
 
 Android Developer's toolbox: https://www.optasy.com/blog/15-android-app-development-tools-essential-every-developers-toolbox
+
+- June 17th
+
+Another reference for understanding better how ESP8266 sends data 
+http://lethanhtrieu.likesyou.org/2017/11/07/how-to-send-data-from-esp8266-to-google-drive/?i=1
