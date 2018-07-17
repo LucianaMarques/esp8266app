@@ -53,3 +53,5 @@ Android Developer's toolbox: https://www.optasy.com/blog/15-android-app-developm
 
 Another reference for understanding better how ESP8266 sends data 
 http://lethanhtrieu.likesyou.org/2017/11/07/how-to-send-data-from-esp8266-to-google-drive/?i=1
+
+Decided to take things a different way: first learn how to send files via wifi with esp8266 before learning more android.
