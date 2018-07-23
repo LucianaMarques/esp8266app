@@ -16,3 +16,6 @@ This is also an open source project and the developersaccept contributions! Fork
 * Started this document. 
 
 * Started a new mobile application in Android Studio to test all the website's examples.
+  * TODO:
+    * Create new class "Connection"
+    * Discover how the main API's functions can be used
